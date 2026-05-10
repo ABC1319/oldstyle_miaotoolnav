@@ -9,6 +9,34 @@
         "addDate": 1757853717209,
         "title": "搜索",
         "children": [
+          
+          {
+            "type": "link",
+            "addDate": 1741007685000,
+            "title": "喵喵工具箱导航",
+            "icon": "https://favicon.im/miaonav.top",
+            "url": "https://miaonav.top"
+          },
+          {
+            "type": "link",
+            "addDate": 1741007685000,
+            "title": "喵喵工具箱pro",
+            "icon": "https://favicon.im/pro-miaotool.netlify.app",
+            "url": "https://pro-miaotool.netlify.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1741007685000,
+            "title": "喵喵工具箱old",
+            "icon": "https://favicon.im/miaonav.oldstyle-miaotool.netlify.app",
+            "url": "https://oldstyle-miaotool.netlify.app"
+          },
+
+          
+          
+          
+          
+          
           {
             "type": "link",
             "addDate": 1741007685000,
